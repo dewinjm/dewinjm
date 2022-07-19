@@ -1,10 +1,16 @@
 ### [ Hi there 👋](https://dewinmartinez.com/)
 
 I'm a freelancer software engineer from Dominican Republic 🇩🇴.
-<div align="center">
-  <a href="https://github.com/dewinjm"><img width="550" height="200" src="https://github-readme-stats.vercel.app/api?username=dewinjm&show_icons=true&theme=dracula"></a>
-  <a href="https://github.com/dewinjm"><img width="450" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewinjm&&langs_count=6&layout=compact&theme=dracula"></a>
-</div>
+ 
+<a href="https://github.com/dewinjm">
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=dewinjm&show_icons=true&theme=dracula">
+</a>
+<br/>
+<br/>
+<a href="https://github.com/dewinjm">
+  <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dewinjm&&langs_count=6&layout=compact&theme=dracula">
+</a>
+
 
 <!--
 **dewinjm/dewinjm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
